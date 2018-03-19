@@ -14,7 +14,7 @@ public class UserEntity {
     private String firstname;
     private String surname;
     private boolean isLogin;
-    private LocalDateTime creationDate;
+    //private LocalDateTime creationDate;
     private KeyEntity key;
 
 
